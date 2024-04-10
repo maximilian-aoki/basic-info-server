@@ -2,7 +2,7 @@
   "name": "basic-info-server",
   "version": "1.0.0",
   "description": "A server configured to send different html and css resources depending on the url. Made with Node.js core modules.",
-  "main": "app.js",
+  "main": "index.js",
   "private": true,
   "scripts": {
     "start": "node index.js",

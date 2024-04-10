@@ -1,0 +1,11 @@
+:root {
+  font-family: sans-serif;
+  background-color: rgb(39, 47, 54);
+  color: rgb(234, 227, 227);
+}
+a {
+  color: white;
+}
+a:hover {
+  color: rgb(128, 207, 241);
+}
